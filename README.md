@@ -1,5 +1,5 @@
 # Learning how to Webscrape!
-We webscraped data from the Nashville Rock-and-Roll Marathons using Requests and Beautiful Soup 4. Once we had the data, we made brief presentations on a question we wanted to answer. I chose, 'What is the most common first name for a runner (in these races)?'. I used WordCloud to make this fun visual in python. (Full presentation and jupyter notebooks in repo.)
+We webscraped data from the Nashville Rock-and-Roll Marathons using Requests and Beautiful Soup 4. Once we had the data, we made brief presentations on a question we wanted to answer. I chose, 'What is the most common first name for a runner (in these races)?' I used WordCloud to make this fun visual in python. (Full presentation and jupyter notebooks in repo.)
 
 ![Word Cloud](/images/all6.jpeg)
 
